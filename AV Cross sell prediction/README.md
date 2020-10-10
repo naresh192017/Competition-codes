@@ -37,4 +37,5 @@ The evaluation metrics for this competition is [ROC AUC Score](http://scikit-lea
 ## Leaderboard Ranking :
 1. private leaderboard : 10th rank
 2. public leaderboard : 37th rank 
+
 Link to the leaderboard [here](https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/#LeaderBoard).
