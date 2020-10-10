@@ -1,2 +1,3 @@
 # Competition-codes
-## Different Aprroch which I used for hackathons
+This repository is about codes/approches which I used in hackathons.
+
