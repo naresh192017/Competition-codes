@@ -1,6 +1,6 @@
 ![JanataHack-Cross-sell-prediction-thumbnail-1200x1200](https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/cover_5-thumbnail-1200x1200.png)
 
-# HR_Analytics_AnalyticsVidhya
+# JanataHack-Cross-sell-prediction by AnalyticsVidhya
 
 Link to the competition [here](https://datahack.analyticsvidhya.com/contest/janatahack-cross-sell-prediction/).
 
