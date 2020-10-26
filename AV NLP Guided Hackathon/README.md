@@ -28,6 +28,18 @@ List of possible tags are as follows:
 | Mathematics         | Whether article belongs to topic Mathematics (1/0)     |
 | Physics        | Whether article belongs to topic physics (1/0)     |
 | Statistics         | Whether article belongs to topic Statistics (1/0)     |
-| Tags        | (TARGET) There are 25 columns of possible tags with (1/0) :
-                1 : if article belongs to that tag 0 : if article doesn't belong to that tag     |
+| Tags        | (TARGET) There are 25 columns of possible tags with (1/0) 1 : if article belongs to that tag 0 : if article doesn't belong to that tag     |
 
+## Evaluation Metric:
+The evaluation metrics for this competition is [micro F1 Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html).	
+
+## Approach :
+1. Text Preprocessing
+2. Building Baseline models ( XGBoost and cat boost) 
+3. Ensembling (blending)
+
+## Leaderboard Ranking :
+1. private leaderboard : 23rd rank
+2. public leaderboard : 18th rank 
+
+Link to the leaderboard [here](https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/#LeaderBoard).
