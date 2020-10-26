@@ -35,7 +35,7 @@ The evaluation metrics for this competition is [micro F1 Score](https://scikit-l
 
 ## Approach :
 1. Text Preprocessing
-2. Building models ( XGBoost and CATBoost) 
+2. model Building( XGBoost and CATBoost) 
 3. Ensembling (blending)
 
 ## Leaderboard Ranking :
