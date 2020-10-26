@@ -28,5 +28,6 @@ List of possible tags are as follows:
 | Mathematics         | Whether article belongs to topic Mathematics (1/0)     |
 | Physics        | Whether article belongs to topic physics (1/0)     |
 | Statistics         | Whether article belongs to topic Statistics (1/0)     |
-| Tags        | (TARGET) There are 25 columns of possible tags with (1/0) : 1 : if article belongs to that tag 0 : if article doesn't belong to that tag     |
+| Tags        | (TARGET) There are 25 columns of possible tags with (1/0) :
+                1 : if article belongs to that tag 0 : if article doesn't belong to that tag     |
 
