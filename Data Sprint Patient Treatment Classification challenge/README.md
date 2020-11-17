@@ -1,4 +1,4 @@
-<div align='center'><font size="5" color="#00000"><center><h1 style="text-transform: uppercase; text-shadow: 1px 1px;"> Data Sprint #14: Patient Treatment Classification </font></div> </h1></center>
+<div align='left'><font size="5" color="#00000"><left><h1 style="text-transform: uppercase; text-shadow: 1px 1px;"> Data Sprint #14: Patient Treatment Classification </font></div> </h1></left>
 
 ## Help doctors predict the patient status (incare or an outcare)
 
