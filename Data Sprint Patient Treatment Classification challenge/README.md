@@ -1,8 +1,6 @@
 # Data Sprint #14: Patient Treatment Classification
 ## Help doctors predict the patient status (incare or an outcare)
-<hr> 
-<center><img src="https://dphi-courses.s3.ap-south-1.amazonaws.com/Datathons/patient_classification.jpg" width=400 ></center>
-<hr> 
+<hr> <center><img src="https://dphi-courses.s3.ap-south-1.amazonaws.com/Datathons/patient_classification.jpg" width=400 ></center></hr> 
 
 ## Objective
 Build a machine learning model to predict if the patient should be classified as in care or out care based on the patient's laboratory test result.
